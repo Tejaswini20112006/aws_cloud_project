@@ -1,6 +1,4 @@
-Copy everything inside this Markdown block into your `README.md` file:
 
-markdown
 # Automated Deployment of a Cloud-Based Student Application Using Terraform
 
 A student directory project with a live browser-based demo and optional AWS infrastructure managed using Terraform Infrastructure as Code (IaC).
